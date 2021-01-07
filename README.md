@@ -1,8 +1,7 @@
-# testes_selenium
-Testes automatizados em Selenium WebDriver
+# Testes automatizados em Selenium WebDriver
 
 
-Guia de execução Selenium
+# Guia de execução Selenium
 
 Requisitos usados na execução nesta etapa:
 - Linguagem Python 3.6
